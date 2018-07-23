@@ -1,5 +1,5 @@
 # Rocketseat
-Este roadmap tem como propósito unificar de forma organizada todo material gratuito disponibilizado pela Rocketseat. Será encontrado materiais do Blog, Youtube e Instagram.
+Este compêndio tem como propósito unificar de forma organizada todo material gratuito disponibilizado pela Rocketseat. Será encontrado materiais do Blog, Youtube e Instagram.
 
 ## React Native
 ### Start

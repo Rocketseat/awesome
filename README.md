@@ -18,12 +18,12 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 - [React Native](#react-native)
   - [Start](#rn-start)
-  - [Componentes](#rn-structure)
+  - [Componentes](#rn-components)
   - [Debug](#rn-debug)
   - [Imagem](#rn-image)
   - [Navegação](#rn-navigation)
   - [Câmera](#rn-camera)
-  - [Estilização](#rn-styled)
+  - [Estilização](#rn-styles)
   - [Efeitos](#rn-effects)
   - [Formuários](#rn-forms)
   - [Mapas](#rn-maps)
@@ -31,7 +31,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
   - [Redux](#rn-redux)
   - [GraphQL](#rn-graphql)
   - [Firebase](#rn-firebase)
-  - [Outros](#rn-other)
+  - [Outros](#rn-others)
   - [Séries](#rn-series)
 - [ReactJS](#reactjs)
   - [Start](#reactjs-start)
@@ -43,7 +43,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 _Conteúdo relacionado ao React Native_
 
-### Start
+### <div id="rn-start" />Start
 
 _Para quem está começando_
 
@@ -55,7 +55,7 @@ _Para quem está começando_
 - [Expo: o que é, para que serve e quando utilizar?](https://blog.rocketseat.com.br/expo-react-native/)
 - [![Youtube](assets/youtube.png) Iniciando no React Native [LINK ATUALIZADO NA DESCRIÇÃO] | Diego Fernandes](https://www.youtube.com/watch?v=Ebfi4LsCWGU)
 
-### Componentes
+### <div id="rn-components" />Componentes
 
 _Funcionamento interno, componentes e ciclos de vida_
 
@@ -71,7 +71,7 @@ _Funcionamento interno, componentes e ciclos de vida_
 - [![Instagram](assets/instagram.png) Utilizando \<Fragment>](https://www.instagram.com/p/BhEhWfZg0iD/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) O this.setState é assíncrono](https://www.instagram.com/p/Bg3piUogn37/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Componente vs PureComponent](https://www.instagram.com/p/Bgy7a3bACej/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png)Utilizando o callback do setState](https://www.instagram.com/p/Bb4QDxgAzW5/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Utilizando o callback do setState](https://www.instagram.com/p/Bb4QDxgAzW5/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Capturando erros de execução no componente](https://www.instagram.com/p/Bawa0oXgbZS/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Utilizando async/await no ciclo do componente](https://www.instagram.com/p/BaCojDLALl4/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Componente do BackButton no Android](https://www.instagram.com/p/BZRdroaA_1W/?taken-by=rocketseat_oficial)
@@ -79,19 +79,19 @@ _Funcionamento interno, componentes e ciclos de vida_
 - [![Instagram](assets/instagram.png) Utilizando Arrow Functions nos componentes](https://www.instagram.com/p/BYoVW5FAMCR/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Componentes para cada plataforma](https://www.instagram.com/p/BWFaXH6gwA_/?taken-by=rocketseat_oficial)
 
-### Debug
+### <div id="rn-debug" />Debug
 
 _Depuração e ferramentas para debug_
 
 - [3 ferramentas de debug para React Native](https://blog.rocketseat.com.br/3-ferramentas-de-debug-para-react-native/)
 - [![Instagram](assets/instagram.png) Utilizando a biblioteca Reactotron para debug](https://www.instagram.com/p/BYWLVc1AsnF/?taken-by=rocketseat_oficial)
 
-### Imagem
+### <div id="rn-image" />Imagem
 
 - [![Instagram](assets/instagram.png) Utilizando blur em imagem nativamente](https://www.instagram.com/p/BdkZrfggsuL/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png)Controlando densidade em imagens](https://www.instagram.com/p/BlnfV4CnPu5/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Controlando densidade em imagens](https://www.instagram.com/p/BlnfV4CnPu5/?taken-by=rocketseat_oficial)
 
-### Navegação
+### <div id="rn-navigation" />Navegação
 
 _Navegação entre janelas_
 
@@ -99,13 +99,13 @@ _Navegação entre janelas_
 - [Autenticação JWT no React Native com API REST em NodeJS](https://blog.rocketseat.com.br/autenticacao-react-native-nodejs/)
 - [Fluxo de autenticação com React Native](https://blog.rocketseat.com.br/fluxo-de-autenticacao-com-react-native/)
 
-### Câmera
+### <div id="rn-camera" />Câmera
 
 _Manipulação de câmera_
 
 - [Manipulando a câmera no React Native com o react-native-camera](https://blog.rocketseat.com.br/react-native-camera/)
 
-### Estilização
+### <div id="rn-styles" />Estilização
 
 _Estilização de componentes_
 
@@ -119,17 +119,17 @@ _Estilização de componentes_
 - [![Youtube](assets/youtube.png) CodeQuinta #6 - Construindo layouts no React Native](https://www.youtube.com/watch?v=Q7gT462aBU0)
 - [![Youtube](assets/youtube.png) Entendendo o FlexBox no React Native | Diego Fernandes](https://www.youtube.com/watch?v=dUkkOdhyO1w)
 
-### Efeitos
+### <div id="rn-effects" />Efeitos
 
 - [Implementando Shimmer Effect no React Native](https://blog.rocketseat.com.br/react-native-shimmer/)
 - [Scroll infinito no React Native](https://blog.rocketseat.com.br/scroll-infinito-no-react-native/)
 - [Criando efeito de Lazy Load em imagens no React Native](https://blog.rocketseat.com.br/criando-efeito-de-lazy-load-em-imagens-no-react-native/)
 
-### Formulários
+### <div id="rn-forms" />Formulários
 
 - [Gerenciando formulários no React Native](https://blog.rocketseat.com.br/gerenciando-formularios-no-react-native/)
 
-### Mapas
+### <div id="rn-maps" />Mapas
 
 _Utilização de mapas_
 
@@ -137,14 +137,14 @@ _Utilização de mapas_
 - [![Youtube](assets/youtube.png) CodeQuinta #4 - Mapas no React Native](https://www.youtube.com/watch?v=2takPFib5uE)
 - [![Instagram](assets/instagram.png) Renderizando mapas com a biblioteca do AirBnB](https://www.instagram.com/p/BYbbDTNgTjr/?taken-by=rocketseat_oficial)
 
-### Offline First
+### <div id="rn-offline-first" />Offline First
 
 _Tratamento de ambiente local para disponibilização nas nuvens_
 
 - [Offline first: como funciona e como aplicar no React Native?](https://blog.rocketseat.com.br/offline-first-react-native/)
 - [![Instagram](assets/instagram.png) Descobrindo se o usuário está conectado]()
 
-### Redux
+### <div id="rn-redux" />Redux
 
 - [Redux: O passo a passo](https://blog.rocketseat.com.br/redux-o-passo-a-passo/)
 - [Estrutura Redux escalável com Ducks](https://blog.rocketseat.com.br/estrutura-redux-escalavel-com-ducks/)
@@ -153,16 +153,16 @@ _Tratamento de ambiente local para disponibilização nas nuvens_
 - [![Instagram](assets/instagram.png) Testando reducers de Redux com Jest](https://www.instagram.com/p/BZ1xdX7gPHX/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Fluxo do Redux](https://www.instagram.com/p/BZTYYAjAp7N/?taken-by=rocketseat_oficial)
 
-### GraphQL
+### <div id="rn-graphql" />GraphQL
 
 - [![Instagram](assets/instagram.png) Conectando um componente ao GraphQL](https://www.instagram.com/p/BaZwS5zAUB9/?taken-by=rocketseat_oficial)
 
-### Firebase
+### <div id="rn-firebase" />Firebase
 
 - [![Youtube](assets/youtube.png) [React Native + Firebase] Instalação e autenticação e-mail/senha | Diego Fernandes
   ](https://www.youtube.com/watch?v=MxXyR0CN4v0)
 
-### Outros
+### <div id="rn-others" />Outros
 
 - [Configurando deep linking no React Native](https://blog.rocketseat.com.br/configurando-deep-linking-no-react-native/)
 - [![Youtube](assets/youtube.png) CodeQuinta #9 | Consumindo API REST com React Native (CRUD)](https://www.youtube.com/watch?v=fBrOtR3pgPU)
@@ -173,6 +173,20 @@ _Tratamento de ambiente local para disponibilização nas nuvens_
 - [![Instagram](assets/instagram.png) Acessando dados de geolocalização do usuário](https://www.instagram.com/p/BaUceBhAprY/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Utilizando PropTypes do componente filho](https://www.instagram.com/p/BZeedPVAsRn/?taken-by=rocketseat_oficial)
 
-### Séries
+### <div id="rn-series" />Séries
 
 - [Iniciando com React Native: Navegação e Autenticação com JWT](https://blog.rocketseat.com.br/react-native-autenticacao/)
+
+## Rocketseat
+
+Para conhecer um pouco mais sobre a Rocketseat, acompanhe-nos nas redes sociais:
+
+- [Site](https://rocketseat.com.br)
+- [Blog](https://rocketseat.com.br/blog)
+- [Facebook](https://facebook.com/rocketseat)
+- [Youtube](https://www.youtube.com/rocketseat)
+- [Twitter](https://twitter.com/rocketseat)
+- [Instagram](https://www.instagram.com/rocketseat_oficial)
+- [Linkedin](https://www.linkedin.com/company/rocketseat)
+
+[Para participar da comunidade basta clicar aqui.](http://comunidade.rocketseat.com.br)

@@ -30,6 +30,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
   - [Offline First](#rn-offline-first)
   - [Redux](#rn-redux)
   - [GraphQL](#rn-graphql)
+  - [Firebase](#rn-firebase)
   - [Outros](#rn-other)
 - [ReactJS](#reactjs)
   - [Start](#reactjs-start)
@@ -45,6 +46,7 @@ _Conteúdo relacionado ao React Native_
 
 _Para quem está começando_
 
+- [![Youtube](https://raw.githubusercontent.com/Rocketseat/awesome/master/youtube.png) Iniciando com React Native em 2018 | Diego Fernandes](https://www.youtube.com/watch?v=XcU9GEUZTQA)
 - [3 passos para aprender React Native](https://blog.rocketseat.com.br/3-passos-para-aprender-react-native/)
 - [5 erros comuns de um desenvolvedor React/React Native](https://blog.rocketseat.com.br/5-erros-comuns-de-um-desenvolvedor-react-react-native/)
 - [5 dicas de performance no React Native](https://blog.rocketseat.com.br/5-dicas-de-performance-no-react-native/)
@@ -113,6 +115,8 @@ _Estilização de componentes_
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Ocupando todo espaço com componente](https://www.instagram.com/p/BcKR3NmADVI/?taken-by=rocketseat_oficial)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Separando estilos genéricos dos componentes](https://www.instagram.com/p/BY_bZL3A4Vf/?taken-by=rocketseat_oficial)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Estilos específicos para plataforma no React Native](https://www.instagram.com/p/BWLEL3kAVzZ/?taken-by=rocketseat_oficial)
+- [![Youtube](https://raw.githubusercontent.com/Rocketseat/awesome/master/youtube.png) CodeQuinta #6 - Construindo layouts no React Native](https://www.youtube.com/watch?v=Q7gT462aBU0)
+- [![Youtube](https://raw.githubusercontent.com/Rocketseat/awesome/master/youtube.png) Entendendo o FlexBox no React Native | Diego Fernandes](https://www.youtube.com/watch?v=dUkkOdhyO1w)
 
 ### Efeitos
 
@@ -129,6 +133,7 @@ _Estilização de componentes_
 _Utilização de mapas_
 
 - [Utilizando mapas no React Native com Mapbox](https://blog.rocketseat.com.br/react-native-map/)
+- [![Youtube](https://raw.githubusercontent.com/Rocketseat/awesome/master/youtube.png) CodeQuinta #4 - Mapas no React Native](https://www.youtube.com/watch?v=2takPFib5uE)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Renderizando mapas com a biblioteca do AirBnB](https://www.instagram.com/p/BYbbDTNgTjr/?taken-by=rocketseat_oficial)
 
 ### Offline First
@@ -142,6 +147,7 @@ _Tratamento de ambiente local para disponibilização nas nuvens_
 
 - [Redux: O passo a passo](https://blog.rocketseat.com.br/redux-o-passo-a-passo/) - [22/Março/2018]
 - [Estrutura Redux escalável com Ducks](https://blog.rocketseat.com.br/estrutura-redux-escalavel-com-ducks/) - [22/Março/2018]
+- [![Youtube](https://raw.githubusercontent.com/Rocketseat/awesome/master/youtube.png) Selectors no Redux utilizando reselect | Diego Fernandes](https://www.youtube.com/watch?v=3GpRg-PdbEU)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Realizando operações no estado do Redux](https://www.instagram.com/p/BjZ3uobnyzg/?taken-by=rocketseat_oficial)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Testando reducers de Redux com Jest](https://www.instagram.com/p/BZ1xdX7gPHX/?taken-by=rocketseat_oficial)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Fluxo do Redux](https://www.instagram.com/p/BZTYYAjAp7N/?taken-by=rocketseat_oficial)
@@ -150,9 +156,15 @@ _Tratamento de ambiente local para disponibilização nas nuvens_
 
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Conectando um componente ao GraphQL](https://www.instagram.com/p/BaZwS5zAUB9/?taken-by=rocketseat_oficial)
 
+### Firebase
+
+- [![Youtube](https://raw.githubusercontent.com/Rocketseat/awesome/master/youtube.png) [React Native + Firebase] Instalação e autenticação e-mail/senha | Diego Fernandes
+  ](https://www.youtube.com/watch?v=MxXyR0CN4v0)
+
 ### Outros
 
 - [Configurando deep linking no React Native](https://blog.rocketseat.com.br/configurando-deep-linking-no-react-native/) - [29/Maio/2018]
+- [![Youtube](https://raw.githubusercontent.com/Rocketseat/awesome/master/youtube.png) CodeQuinta #9 | Consumindo API REST com React Native (CRUD)](https://www.youtube.com/watch?v=fBrOtR3pgPU)
 - [Utilizando caminhos absolutos para imports no React Native](https://blog.rocketseat.com.br/utilizando-caminhos-absolutos-para-imports-no-react-native/) - [22/Março/2018]
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Controlando área "clicável" de botões](https://www.instagram.com/p/BlandieHiRW/?taken-by=rocketseat_oficial)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Utilizando o clipboard](https://www.instagram.com/p/BccTMcfAt2S/?taken-by=rocketseat_oficial)

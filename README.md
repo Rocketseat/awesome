@@ -83,7 +83,7 @@ _Funcionamento interno, componentes e ciclos de vida_
 
 _Depuração e ferramentas para debug_
 
-- [3 ferramentas de debug para React Native](https://blog.rocketseat.com.br/3-ferramentas-de-debug-para-react-native/) - [09/Maio/2018]
+- [3 ferramentas de debug para React Native](https://blog.rocketseat.com.br/3-ferramentas-de-debug-para-react-native/)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Utilizando a biblioteca Reactotron para debug](https://www.instagram.com/p/BYWLVc1AsnF/?taken-by=rocketseat_oficial)
 
 ### Imagem
@@ -97,7 +97,7 @@ _Navegação entre janelas_
 
 - [Navegação entre telas no React Native com React Navigation V2](https://blog.rocketseat.com.br/react-navigation-react-native/)
 - [Autenticação JWT no React Native com API REST em NodeJS](https://blog.rocketseat.com.br/autenticacao-react-native-nodejs/)
-- [Fluxo de autenticação com React Native](https://blog.rocketseat.com.br/fluxo-de-autenticacao-com-react-native/) - [22/Março/2018]
+- [Fluxo de autenticação com React Native](https://blog.rocketseat.com.br/fluxo-de-autenticacao-com-react-native/)
 
 ### Câmera
 
@@ -109,9 +109,9 @@ _Manipulação de câmera_
 
 _Estilização de componentes_
 
-- [Como organizar estilos no React Native](https://blog.rocketseat.com.br/como-organizar-estilos-no-react-native/) - [22/Março/2018]
+- [Como organizar estilos no React Native](https://blog.rocketseat.com.br/como-organizar-estilos-no-react-native/)
 - [Utilizando NativeBase no React Native](https://blog.rocketseat.com.br/native-base-no-react-native/)
-- [Utilizando fontes de ícones no React Native](https://blog.rocketseat.com.br/utilizando-fontes-de-icones-no-react-native/) - [22/Março/2018]
+- [Utilizando fontes de ícones no React Native](https://blog.rocketseat.com.br/utilizando-fontes-de-icones-no-react-native/)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Utilizando styled-components](https://www.instagram.com/p/BjCsqZZHi0D/?taken-by=rocketseat_oficial)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Ocupando todo espaço com componente](https://www.instagram.com/p/BcKR3NmADVI/?taken-by=rocketseat_oficial)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Separando estilos genéricos dos componentes](https://www.instagram.com/p/BY_bZL3A4Vf/?taken-by=rocketseat_oficial)
@@ -127,7 +127,7 @@ _Estilização de componentes_
 
 ### Formulários
 
-- [Gerenciando formulários no React Native](https://blog.rocketseat.com.br/gerenciando-formularios-no-react-native/) - [22/Março/2018]
+- [Gerenciando formulários no React Native](https://blog.rocketseat.com.br/gerenciando-formularios-no-react-native/)
 
 ### Mapas
 
@@ -146,8 +146,8 @@ _Tratamento de ambiente local para disponibilização nas nuvens_
 
 ### Redux
 
-- [Redux: O passo a passo](https://blog.rocketseat.com.br/redux-o-passo-a-passo/) - [22/Março/2018]
-- [Estrutura Redux escalável com Ducks](https://blog.rocketseat.com.br/estrutura-redux-escalavel-com-ducks/) - [22/Março/2018]
+- [Redux: O passo a passo](https://blog.rocketseat.com.br/redux-o-passo-a-passo/)
+- [Estrutura Redux escalável com Ducks](https://blog.rocketseat.com.br/estrutura-redux-escalavel-com-ducks/)
 - [![Youtube](https://raw.githubusercontent.com/Rocketseat/awesome/master/youtube.png) Selectors no Redux utilizando reselect | Diego Fernandes](https://www.youtube.com/watch?v=3GpRg-PdbEU)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Realizando operações no estado do Redux](https://www.instagram.com/p/BjZ3uobnyzg/?taken-by=rocketseat_oficial)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Testando reducers de Redux com Jest](https://www.instagram.com/p/BZ1xdX7gPHX/?taken-by=rocketseat_oficial)
@@ -164,9 +164,9 @@ _Tratamento de ambiente local para disponibilização nas nuvens_
 
 ### Outros
 
-- [Configurando deep linking no React Native](https://blog.rocketseat.com.br/configurando-deep-linking-no-react-native/) - [29/Maio/2018]
+- [Configurando deep linking no React Native](https://blog.rocketseat.com.br/configurando-deep-linking-no-react-native/)
 - [![Youtube](https://raw.githubusercontent.com/Rocketseat/awesome/master/youtube.png) CodeQuinta #9 | Consumindo API REST com React Native (CRUD)](https://www.youtube.com/watch?v=fBrOtR3pgPU)
-- [Utilizando caminhos absolutos para imports no React Native](https://blog.rocketseat.com.br/utilizando-caminhos-absolutos-para-imports-no-react-native/) - [22/Março/2018]
+- [Utilizando caminhos absolutos para imports no React Native](https://blog.rocketseat.com.br/utilizando-caminhos-absolutos-para-imports-no-react-native/)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Controlando área "clicável" de botões](https://www.instagram.com/p/BlandieHiRW/?taken-by=rocketseat_oficial)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Utilizando o clipboard](https://www.instagram.com/p/BccTMcfAt2S/?taken-by=rocketseat_oficial)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Manipulando o comportamento da tela com o teclado](https://www.instagram.com/p/BbmQ4LJgrDx/?taken-by=rocketseat_oficial)

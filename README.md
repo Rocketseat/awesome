@@ -32,6 +32,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
   - [GraphQL](#rn-graphql)
   - [Firebase](#rn-firebase)
   - [Outros](#rn-other)
+  - [Séries](#rn-series)
 - [ReactJS](#reactjs)
   - [Start](#reactjs-start)
 - [NodeJS](#nodejs)
@@ -171,3 +172,7 @@ _Tratamento de ambiente local para disponibilização nas nuvens_
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Manipulando o comportamento da tela com o teclado](https://www.instagram.com/p/BbmQ4LJgrDx/?taken-by=rocketseat_oficial)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Acessando dados de geolocalização do usuário](https://www.instagram.com/p/BaUceBhAprY/?taken-by=rocketseat_oficial)
 - [![Instagram](https://raw.githubusercontent.com/Rocketseat/awesome/master/instagram.png) Utilizando PropTypes do componente filho](https://www.instagram.com/p/BZeedPVAsRn/?taken-by=rocketseat_oficial)
+
+### Séries
+
+- [Iniciando com React Native: Navegação e Autenticação com JWT](https://blog.rocketseat.com.br/react-native-autenticacao/)

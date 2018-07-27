@@ -38,6 +38,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [NodeJS](#nodejs)
   - [Express](#express)
   - [Adonis](#adonis)
+  - [Séries](#nodejs-series)
 
 ## React Native
 
@@ -176,6 +177,23 @@ _Tratamento de ambiente local para disponibilização nas nuvens_
 ### <div id="rn-series" />Séries
 
 - [Iniciando com React Native: Navegação e Autenticação com JWT](https://blog.rocketseat.com.br/react-native-autenticacao/)
+
+## NodeJS
+### Javascript
+  - [![Instagram](assets/instagram.png) Controlando criação/edição com Axios](https://www.instagram.com/p/BlVYbl3na70/?taken-by=rocketseat_oficial)
+  - [![Instagram](assets/instagram.png) Get/set por caminho em objetos](https://www.instagram.com/p/BkklXTUHw_J/?taken-by=rocketseat_oficial)
+  - [![Instagram](assets/instagram.png) Operação em estilos CSS-in-JS](https://www.instagram.com/p/Bkcys8xHmBo/?taken-by=rocketseat_oficial)
+### Express
+  - [Configurando o ORM Sequelize no NodeJS com ExpressJS](https://blog.rocketseat.com.br/nodejs-express-sequelize/)
+  - [Autenticação JWT no React Native com API REST em NodeJS](https://blog.rocketseat.com.br/autenticacao-react-native-nodejs/)
+  - [Iniciando com middlewares no Express.js](https://blog.rocketseat.com.br/middlewares-no-express-js/)
+### Adonis
+### Outros
+  - [NodeJS: Vale a pena? Vantagens, vagas e salário](https://blog.rocketseat.com.br/nodejs-vale-a-pena-vantagens/)
+### Séries
+  - [Iniciando com AdonisJS: Autenticação JWT e API REST](https://blog.rocketseat.com.br/adonis-auth-jwt-api-rest/)
+  - [Criando CRUD e relações em API REST no AdonisJS](https://blog.rocketseat.com.br/crud-api-rest-adonis/)
+  - [Upload de imagens e geolocalização no AdonisJS](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
 
 ## Rocketseat
 

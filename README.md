@@ -16,6 +16,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 ## Tabela de Conteúdos
 
+- [Javascript](#pure-javascript)
 - [React Native](#react-native)
   - [Start](#rn-start)
   - [Componentes](#rn-components)
@@ -42,14 +43,21 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
   - [Adonis](#adonis)
   - [Outros](#node-others)
   - [Séries](#node-series)
+- [ReactJS](#react-js)
+  - [Start](#reactjs-start)
+  - [Estilização](#reactjs-style)
+- [Outros](#others)
+
+## <div id="pure-javascript" />Javascript
+
+- [![Blog](assets/rocketseat.png) Debounce vs. Throttle no Javascript](https://blog.rocketseat.com.br/debounce-vs-throttle-no-javascript/)
+- [![Blog](assets/rocketseat.png) Javascript assíncrono: async/await](https://blog.rocketseat.com.br/javascript-assincrono-async-await/)
+- [![Blog](assets/rocketseat.png) Javascript assíncrono: Promises](https://blog.rocketseat.com.br/javascript-assincrono-promises/)
+- [![Blog](assets/rocketseat.png) Ambiente Javascript: Dicas, VSCode e terminal](https://blog.rocketseat.com.br/ambiente-desenvolvimento-javascript/)
 
 ## React Native
 
-_Conteúdo relacionado ao React Native_
-
 ### <div id="rn-start" />Start
-
-_Para quem está começando_
 
 - [![Youtube](assets/youtube.png) Iniciando com React Native em 2018 | Diego Fernandes](https://www.youtube.com/watch?v=XcU9GEUZTQA)
 - [![Blog](assets/rocketseat.png) 3 passos para aprender React Native](https://blog.rocketseat.com.br/3-passos-para-aprender-react-native/)
@@ -60,8 +68,6 @@ _Para quem está começando_
 - [![Youtube](assets/youtube.png) Iniciando no React Native [LINK ATUALIZADO NA DESCRIÇÃO] | Diego Fernandes](https://www.youtube.com/watch?v=Ebfi4LsCWGU)
 
 ### <div id="rn-components" />Componentes
-
-_Funcionamento interno, componentes e ciclos de vida_
 
 - [![Blog](assets/rocketseat.png) Higher-Order Components (HOCs) no React e React Native](https://blog.rocketseat.com.br/higher-order-components-hocs-no-react-e-react-native/)
 - [![Blog](assets/rocketseat.png) Context API do React 16.3.0 e métodos de ciclo de vida](https://blog.rocketseat.com.br/context-api-react-16-ciclo-de-vida/)
@@ -85,8 +91,6 @@ _Funcionamento interno, componentes e ciclos de vida_
 
 ### <div id="rn-debug" />Debug
 
-_Depuração e ferramentas para debug_
-
 - [![Blog](assets/rocketseat.png) 3 ferramentas de debug para React Native](https://blog.rocketseat.com.br/3-ferramentas-de-debug-para-react-native/)
 - [![Instagram](assets/instagram.png) Utilizando a biblioteca Reactotron para debug](https://www.instagram.com/p/BYWLVc1AsnF/?taken-by=rocketseat_oficial)
 
@@ -97,21 +101,15 @@ _Depuração e ferramentas para debug_
 
 ### <div id="rn-navigation" />Navegação
 
-_Navegação entre janelas_
-
 - [![Blog](assets/rocketseat.png) Navegação entre telas no React Native com React Navigation V2](https://blog.rocketseat.com.br/react-navigation-react-native/)
 - [![Blog](assets/rocketseat.png) Autenticação JWT no React Native com API REST em NodeJS](https://blog.rocketseat.com.br/autenticacao-react-native-nodejs/)
 - [![Blog](assets/rocketseat.png) Fluxo de autenticação com React Native](https://blog.rocketseat.com.br/fluxo-de-autenticacao-com-react-native/)
 
 ### <div id="rn-camera" />Câmera
 
-_Manipulação de câmera_
-
 - [![Blog](assets/rocketseat.png) Manipulando a câmera no React Native com o react-native-camera](https://blog.rocketseat.com.br/react-native-camera/)
 
 ### <div id="rn-styles" />Estilização
-
-_Estilização de componentes_
 
 - [![Blog](assets/rocketseat.png) Como organizar estilos no React Native](https://blog.rocketseat.com.br/como-organizar-estilos-no-react-native/)
 - [![Blog](assets/rocketseat.png) Utilizando NativeBase no React Native](https://blog.rocketseat.com.br/native-base-no-react-native/)
@@ -135,15 +133,11 @@ _Estilização de componentes_
 
 ### <div id="rn-maps" />Mapas
 
-_Utilização de mapas_
-
 - [![Blog](assets/rocketseat.png) Utilizando mapas no React Native com Mapbox](https://blog.rocketseat.com.br/react-native-map/)
 - [![Youtube](assets/youtube.png) CodeQuinta #4 - Mapas no React Native](https://www.youtube.com/watch?v=2takPFib5uE)
 - [![Instagram](assets/instagram.png) Renderizando mapas com a biblioteca do AirBnB](https://www.instagram.com/p/BYbbDTNgTjr/?taken-by=rocketseat_oficial)
 
 ### <div id="rn-offline-first" />Offline First
-
-_Tratamento de ambiente local para disponibilização nas nuvens_
 
 - [![Blog](assets/rocketseat.png) Offline first: como funciona e como aplicar no React Native?](https://blog.rocketseat.com.br/offline-first-react-native/)
 - [![Instagram](assets/instagram.png) Descobrindo se o usuário está conectado]()
@@ -152,6 +146,8 @@ _Tratamento de ambiente local para disponibilização nas nuvens_
 
 - [![Blog](assets/rocketseat.png) Redux: O passo a passo](https://blog.rocketseat.com.br/redux-o-passo-a-passo/)
 - [![Blog](assets/rocketseat.png) Estrutura Redux escalável com Ducks](https://blog.rocketseat.com.br/estrutura-redux-escalavel-com-ducks/)
+- [![Blog](assets/rocketseat.png) Tornando o estado do Redux imutável
+  ](https://blog.rocketseat.com.br/tornando-o-estado-do-redux-imutavel/)
 - [![Youtube](assets/youtube.png) Selectors no Redux utilizando reselect | Diego Fernandes](https://www.youtube.com/watch?v=3GpRg-PdbEU)
 - [![Instagram](assets/instagram.png) Realizando operações no estado do Redux](https://www.instagram.com/p/BjZ3uobnyzg/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Adicionando um timeout à uma request](https://www.instagram.com/p/BamnfBygRjw/?taken-by=rocketseat_oficial)
@@ -170,8 +166,10 @@ _Tratamento de ambiente local para disponibilização nas nuvens_
 ### <div id="rn-others" />Outros
 
 - [![Blog](assets/rocketseat.png) Configurando deep linking no React Native](https://blog.rocketseat.com.br/configurando-deep-linking-no-react-native/)
-- [![Youtube](assets/youtube.png) CodeQuinta #9 | Consumindo API REST com React Native (CRUD)](https://www.youtube.com/watch?v=fBrOtR3pgPU)
+- [![Blog](assets/rocketseat.png) As melhores features do ES6, ES7 e ES8](https://blog.rocketseat.com.br/as-melhores-features-do-es6-es7-e-es8/)
 - [![Blog](assets/rocketseat.png) Utilizando caminhos absolutos para imports no React Native](https://blog.rocketseat.com.br/utilizando-caminhos-absolutos-para-imports-no-react-native/)
+- [![Blog](assets/rocketseat.png) Context API do React 16.3.0 e métodos de ciclo de vida](https://blog.rocketseat.com.br/context-api-react-16-ciclo-de-vida/)
+- [![Youtube](assets/youtube.png) CodeQuinta #9 | Consumindo API REST com React Native (CRUD)](https://www.youtube.com/watch?v=fBrOtR3pgPU)
 - [![Instagram](assets/instagram.png) Controlando área "clicável" de botões](https://www.instagram.com/p/BlandieHiRW/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Utilizando o clipboard](https://www.instagram.com/p/BccTMcfAt2S/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Manipulando o comportamento da tela com o teclado](https://www.instagram.com/p/BbmQ4LJgrDx/?taken-by=rocketseat_oficial)
@@ -219,13 +217,38 @@ _Tratamento de ambiente local para disponibilização nas nuvens_
 ### <div id="node-others" />Outros
 
 - [![Blog](assets/rocketseat.png) NodeJS: Vale a pena? Vantagens, vagas e salário](https://blog.rocketseat.com.br/nodejs-vale-a-pena-vantagens/)
+- [![Blog](assets/rocketseat.png) Server-side rendering (SSR) com ReactJS e Next.js](https://blog.rocketseat.com.br/ssr-nextjs-reactjs/)
 - [![Instagram](assets/instagram.png) Lendo arquivos em partes com async/await](https://www.instagram.com/p/Bh_xU07HENo/?taken-by=rocketseat_oficial)
 
 ### <div id="node-series" />Séries
 
-- [![Blog](assets/rocketseat.png) Iniciando com AdonisJS: Autenticação JWT e API REST](https://blog.rocketseat.com.br/adonis-auth-jwt-api-rest/)
-- [![Blog](assets/rocketseat.png) Criando CRUD e relações em API REST no AdonisJS](https://blog.rocketseat.com.br/crud-api-rest-adonis/)
-- [![Blog](assets/rocketseat.png) Upload de imagens e geolocalização no AdonisJS](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Iniciando com AdonisJS: Autenticação JWT e API REST (parte 1)](https://blog.rocketseat.com.br/adonis-auth-jwt-api-rest/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Criando CRUD e relações em API REST no AdonisJS (parte 2)](https://blog.rocketseat.com.br/crud-api-rest-adonis/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Upload de imagens e geolocalização no AdonisJS (parte 3)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Iniciando com React Native: Navegação e Autenticação com JWT (parte 4)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Instalando o Mapbox e listando imóveis no React Native (parte 5)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
+
+## <div id="react-js"></div>ReactJS
+
+### <div id="reactjs-start">Start
+
+- [![Blog](assets/rocketseat.png) React do zero: componentização, propriedades e estado](https://blog.rocketseat.com.br/react-do-zero-componentizacao-propriedades-e-estado/)
+- [![Blog](assets/rocketseat.png) React do zero: ciclo de vida, stateless components e arquitetura flux](https://blog.rocketseat.com.br/react-do-zero-ciclo-de-vida-stateless-components-e-arquitetura-flux/)
+
+### <div id="reactjs-styles" />Estilização
+
+- [![Blog](assets/rocketseat.png) Integração do Material UI com ReactJS](https://blog.rocketseat.com.br/react-material-ui/)
+
+## <div id="others"></div>Outros
+
+- [![Blog](assets/rocketseat.png) O que estudar em 2018 como front-end?
+  ](https://blog.rocketseat.com.br/o-que-estudar-em-2018-como-front-end/)
+- [![Blog](assets/rocketseat.png) Padronizando código em seu time
+  ](https://blog.rocketseat.com.br/padronizando-codigo-em-seu-time/)
+- [![Blog](assets/rocketseat.png) Integração contínua (CI) do zero
+  ](https://blog.rocketseat.com.br/integracao-continua-ci-do-zero/)
+- [![Blog](assets/rocketseat.png) PWA: O que é? Vale a pena? Quando utilizar?](https://blog.rocketseat.com.br/pwa-o-que-e-quando-utilizar/)
+- [![Blog](assets/rocketseat.png) Git & Github: O que é? Por que? Como iniciar?](https://blog.rocketseat.com.br/iniciando-com-git-github/)
 
 ## Rocketseat
 

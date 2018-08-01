@@ -34,8 +34,6 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
   - [Firebase](#rn-firebase)
   - [Outros](#rn-others)
   - [Séries](#rn-series)
-- [ReactJS](#reactjs)
-  - [Start](#reactjs-start)
 - [NodeJS](#nodejs)
   - [Javascript](#node-js)
   - [Promises e async/await](#node-promises)

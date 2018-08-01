@@ -45,7 +45,10 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
   - [Séries](#node-series)
 - [ReactJS](#react-js)
   - [Start](#reactjs-start)
+  - [Redux](#reactjs-redux)
   - [Estilização](#reactjs-style)
+  - [Navegação](#reactjs-nagivation)
+  - [Outros](#reactjs-others)
 - [Outros](#others)
 
 ## <div id="pure-javascript" />Javascript
@@ -54,6 +57,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Blog](assets/rocketseat.png) Javascript assíncrono: async/await](https://blog.rocketseat.com.br/javascript-assincrono-async-await/)
 - [![Blog](assets/rocketseat.png) Javascript assíncrono: Promises](https://blog.rocketseat.com.br/javascript-assincrono-promises/)
 - [![Blog](assets/rocketseat.png) Ambiente Javascript: Dicas, VSCode e terminal](https://blog.rocketseat.com.br/ambiente-desenvolvimento-javascript/)
+- [![Blog](assets/rocketseat.png) CodeQuinta #7 - Features do ES6, ES7 e ES8 produtivas](https://www.youtube.com/watch?v=VwAYyXZk5as)
 
 ## React Native
 
@@ -146,9 +150,10 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 - [![Blog](assets/rocketseat.png) Redux: O passo a passo](https://blog.rocketseat.com.br/redux-o-passo-a-passo/)
 - [![Blog](assets/rocketseat.png) Estrutura Redux escalável com Ducks](https://blog.rocketseat.com.br/estrutura-redux-escalavel-com-ducks/)
-- [![Blog](assets/rocketseat.png) Tornando o estado do Redux imutável
-  ](https://blog.rocketseat.com.br/tornando-o-estado-do-redux-imutavel/)
-- [![Youtube](assets/youtube.png) Selectors no Redux utilizando reselect | Diego Fernandes](https://www.youtube.com/watch?v=3GpRg-PdbEU)
+- [![Blog](assets/rocketseat.png) Tornando o estado do Redux imutável](https://blog.rocketseat.com.br/tornando-o-estado-do-redux-imutavel/)
+- [![Youtube](assets/youtube.png) Selectors no Redux utilizando reselect](https://www.youtube.com/watch?v=3GpRg-PdbEU)
+- [![Youtube](assets/youtube.png) CodeQuinta #1 - Arquitetura Flux com Redux do zero](https://www.youtube.com/watch?v=69e1MoUWE1g)
+- [![Youtube](assets/youtube.png) CodeQuinta #3 - Async com Redux Saga](https://www.youtube.com/watch?v=qU9DesjDJic)
 - [![Instagram](assets/instagram.png) Realizando operações no estado do Redux](https://www.instagram.com/p/BjZ3uobnyzg/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Adicionando um timeout à uma request](https://www.instagram.com/p/BamnfBygRjw/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Testando reducers de Redux com Jest](https://www.instagram.com/p/BZ1xdX7gPHX/?taken-by=rocketseat_oficial)
@@ -157,11 +162,15 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 ### <div id="rn-graphql" />GraphQL
 
 - [![Instagram](assets/instagram.png) Conectando um componente ao GraphQL](https://www.instagram.com/p/BaZwS5zAUB9/?taken-by=rocketseat_oficial)
+- [![Yoututbe](assets/youtube.png) CodeQuinta #8 - Iniciando com GraphQL no React/React Native](https://www.youtube.com/watch?v=smWR_SxdeUU)
 
 ### <div id="rn-firebase" />Firebase
 
-- [![Youtube](assets/youtube.png) [React Native + Firebase] Instalação e autenticação e-mail/senha | Diego Fernandes
-  ](https://www.youtube.com/watch?v=MxXyR0CN4v0)
+- [![Youtube](assets/youtube.png) [React Native + Firebase] Instalação e autenticação e-mail/senha](https://www.youtube.com/watch?v=MxXyR0CN4v0)
+
+### <div id="rn-test" />Testes
+
+- [![Youtube](assets/youtube.png) CodeQuinta #2 - Testes do zero no ReactJS/React Native com Jest](https://www.youtube.com/watch?v=aK-wHbSD3Ws)
 
 ### <div id="rn-others" />Outros
 
@@ -178,7 +187,8 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 ### <div id="rn-series" />Séries
 
-- [![Blog](assets/rocketseat.png) Iniciando com React Native: Navegação e Autenticação com JWT](https://blog.rocketseat.com.br/react-native-autenticacao/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Iniciando com React Native: Navegação e Autenticação com JWT (parte 4)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Instalando o Mapbox e listando imóveis no React Native (parte 5)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
 
 ## <div id="nodejs" />NodeJS
 
@@ -198,6 +208,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Instagram](assets/instagram.png) Utilizando async/await do ES2017](https://www.instagram.com/p/BYtWcqognqg/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Formatação de data com Javascript puro](https://www.instagram.com/p/BVhSakqAwzv/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Formatação monetária com Javascript puro](https://www.instagram.com/p/BVXmy6aAi3o/?taken-by=rocketseat_oficial)
+- [![Youtube](assets/youtube.png) Configurando NodeJS com ES6](https://www.youtube.com/watch?v=joTc5o9lFCg)
 
 ### <div id="node-promises" />Promise e async/await
 
@@ -214,19 +225,27 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 ### <div id="adonis" />Adonis
 
+- [![Blog](assets/rocketseat.png) Iniciando com AdonisJS, um framework completo para NodeJS](https://www.youtube.com/watch?v=aysgHRmzG3w)
+- [![Youtube](assets/youtube.png) CodeQuinta #10 | API em AdonisJS com ReactJS do zero!](https://www.youtube.com/watch?v=_XU8hTHNcj8)
+
 ### <div id="node-others" />Outros
 
 - [![Blog](assets/rocketseat.png) NodeJS: Vale a pena? Vantagens, vagas e salário](https://blog.rocketseat.com.br/nodejs-vale-a-pena-vantagens/)
 - [![Blog](assets/rocketseat.png) Server-side rendering (SSR) com ReactJS e Next.js](https://blog.rocketseat.com.br/ssr-nextjs-reactjs/)
 - [![Instagram](assets/instagram.png) Lendo arquivos em partes com async/await](https://www.instagram.com/p/Bh_xU07HENo/?taken-by=rocketseat_oficial)
+- [![Youtube](assets/youtube.png) Chat em tempo real com NodeJS + Socket.io](https://www.youtube.com/watch?v=-jXfKDYJJvo)
+- [![Youtube](assets/youtube.png) Iniciando com server-side rendering (SSR) no ReactJS com Next.js](https://www.youtube.com/watch?v=aQFPetOyzUE)
+- [![Youtube](assets/youtube.png) Ambiente de desenvolvimento NodeJS com Docker e Docker Compose](https://www.youtube.com/watch?v=AVNADGzXrrQ)
 
 ### <div id="node-series" />Séries
 
 - [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Iniciando com AdonisJS: Autenticação JWT e API REST (parte 1)](https://blog.rocketseat.com.br/adonis-auth-jwt-api-rest/)
 - [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Criando CRUD e relações em API REST no AdonisJS (parte 2)](https://blog.rocketseat.com.br/crud-api-rest-adonis/)
 - [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Upload de imagens e geolocalização no AdonisJS (parte 3)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
-- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Iniciando com React Native: Navegação e Autenticação com JWT (parte 4)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
-- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Instalando o Mapbox e listando imóveis no React Native (parte 5)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
+- [![Youtube](assets/youtube.png) [API NodeJS + Express + Mongo] Estrutura e cadastro (parte 1)](https://www.youtube.com/watch?v=BN_8bCfVp88)
+- [![Youtube](assets/youtube.png) [API NodeJS + Express + Mongo] Autenticação (parte 2)](https://www.youtube.com/watch?v=KKTX1l3sZGk)
+- [![Youtube](assets/youtube.png) [API NodeJS + Express + Mongo] Recuperação de senha com NodeMailer (parte 3)](https://www.youtube.com/watch?v=Zwdv9RllPqU)
+- [![Youtube](assets/youtube.png) [API NodeJS + Express + Mongo] CRUD e relacionamentos com MongoDB (parte 4)](https://www.youtube.com/watch?v=GAZdUyIV3ms)
 
 ## <div id="react-js"></div>ReactJS
 
@@ -234,21 +253,53 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 - [![Blog](assets/rocketseat.png) React do zero: componentização, propriedades e estado](https://blog.rocketseat.com.br/react-do-zero-componentizacao-propriedades-e-estado/)
 - [![Blog](assets/rocketseat.png) React do zero: ciclo de vida, stateless components e arquitetura flux](https://blog.rocketseat.com.br/react-do-zero-ciclo-de-vida-stateless-components-e-arquitetura-flux/)
+- [![Youtube](assets/youtube.png) Iniciando no ReactJS](https://www.youtube.com/watch?v=7A4UQGrFU9Q)
+
+### <div id="reactjs-redux" />Redux
+
+- [![Youtube](assets/youtube.png) Selectors no Redux utilizando reselect](https://www.youtube.com/watch?v=3GpRg-PdbEU)
 
 ### <div id="reactjs-styles" />Estilização
 
 - [![Blog](assets/rocketseat.png) Integração do Material UI com ReactJS](https://blog.rocketseat.com.br/react-material-ui/)
 
+### <div id="reactjs-navigation"></div>Navegação
+
+- [![Youtube](assets/youtube.png) Controlando autenticação em rotas no ReactJS](https://www.youtube.com/watch?v=sYe4r8WXGQg)
+
+### <div id="reactjs-others"></div>Outros
+
+- [![Youtube](assets/youtube.png) Persistindo store do Redux no ReactJS com Redux Persist](https://www.youtube.com/watch?v=LGkNjt7k4UQ)
+- [![Youtube](assets/youtube.png) Caminhos relativos no ReactJS com create-react-app](https://www.youtube.com/watch?v=lAV1-19hHqw)
+- [![Youtube](assets/youtube.png) CodeQuinta #10 | API em AdonisJS com ReactJS do zero!](https://www.youtube.com/watch?v=_XU8hTHNcj8)
+- [![Youtube](assets/youtube.png) Theme Switcher com ReactJS e nova Context API](https://www.youtube.com/watch?v=oDgxUodLwGU)
+
 ## <div id="others"></div>Outros
 
-- [![Blog](assets/rocketseat.png) O que estudar em 2018 como front-end?
-  ](https://blog.rocketseat.com.br/o-que-estudar-em-2018-como-front-end/)
-- [![Blog](assets/rocketseat.png) Padronizando código em seu time
-  ](https://blog.rocketseat.com.br/padronizando-codigo-em-seu-time/)
-- [![Blog](assets/rocketseat.png) Integração contínua (CI) do zero
-  ](https://blog.rocketseat.com.br/integracao-continua-ci-do-zero/)
+- [![Blog](assets/rocketseat.png) O que estudar em 2018 como front-end?](https://blog.rocketseat.com.br/o-que-estudar-em-2018-como-front-end/)
+- [![Blog](assets/rocketseat.png) Padronizando código em seu time](https://blog.rocketseat.com.br/padronizando-codigo-em-seu-time/)
+- [![Blog](assets/rocketseat.png) Integração contínua (CI) do zero](https://blog.rocketseat.com.br/integracao-continua-ci-do-zero/)
 - [![Blog](assets/rocketseat.png) PWA: O que é? Vale a pena? Quando utilizar?](https://blog.rocketseat.com.br/pwa-o-que-e-quando-utilizar/)
 - [![Blog](assets/rocketseat.png) Git & Github: O que é? Por que? Como iniciar?](https://blog.rocketseat.com.br/iniciando-com-git-github/)
+- [![Youtube](assets/youtube.png) 7 passos para aprender a programar em qualquer linguagem](https://www.youtube.com/watch?v=bMPXdM73nm8)
+- [![Youtube](assets/youtube.png) Iniciando com Git](https://www.youtube.com/watch?v=MW7hrQe6aYo)
+- [![Youtube](assets/youtube.png) Pré-processador SASS](https://www.youtube.com/watch?v=pW8GKJtHSk8)
+- [![Youtube](assets/youtube.png) Iniciando com Vagrant](https://www.youtube.com/watch?v=gx50Kv6-2KA)
+- [![Youtube](assets/youtube.png) Servidor PHP no Vagrant](https://www.youtube.com/watch?v=Hs3EESKGMEc)
+- [![Youtube](assets/youtube.png) Devo ser front-end, back-end ou full stack?](https://www.youtube.com/watch?v=X9svzO3KNEo)
+- [![Youtube](assets/youtube.png) CodeQuinta #5 - Fluxo Git & Github](https://www.youtube.com/watch?v=2T2l2rGRzXs)
+
+### <div id="others-series">Séries
+
+- [![Youtube](assets/youtube.png) Fala Dev #1 - Como comecei a programar? Por que criamos a Rocketseat? Nossa stack](https://www.youtube.com/watch?v=gBmnB7BwSRA)
+- [![Youtube](assets/youtube.png) Fala Dev #2 - AirBnB largou o React Native? Projeto sonar, office em RN?](https://www.youtube.com/watch?v=NOqHJ2TsZ70)
+- [![Youtube](assets/youtube.png) Fala Dev #3 - Reagindo à nova versão do React Native](https://www.youtube.com/watch?v=4SkyJEv0j8k)
+
+### <div id="others-series">Podcasts
+
+- [RocketCast #1 - Como comecei a programar? Como surgiu a Rocketseat e nossa stack!](https://anchor.fm/rocketcast/episodes/RocketCast-1---Como-comecei-a-programar--Como-surgiu-a-Rocketseat-e-nossa-stack-e1m5k7)
+- [RocketCast #2 - AirBnB largou o React Native? Projeto sonar, office em RN?](https://anchor.fm/rocketcast/episodes/RocketCast-2---AirBnB-largou-o-React-Native--Projeto-sonar--office-em-RN-e1n6nb)
+- [RocketCast #3 - Reagindo à nova versão do React Native](https://anchor.fm/rocketcast/episodes/RocketCast-3---Reagindo--nova-verso-do-React-Native-e1so6l)
 
 ## Rocketseat
 

@@ -36,8 +36,11 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [ReactJS](#reactjs)
   - [Start](#reactjs-start)
 - [NodeJS](#nodejs)
+  - [Javascript](#node-js)
+  - [Promises e async/await](#node-promises)
   - [Express](#express)
   - [Adonis](#adonis)
+  - [Outros](#node-others)
   - [Séries](#nodejs-series)
 
 ## React Native

@@ -16,7 +16,9 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 ## Tabela de Conteúdos
 
-- [Javascript](#pure-javascript)
+- [Javascript](#javascript)
+  - [ES6/ES7/ES8](#js-ecmascript)
+  - [Promises e async/await](#js-promises)
 - [React Native](#react-native)
   - [Start](#rn-start)
   - [Componentes](#rn-components)
@@ -36,7 +38,6 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
   - [Séries](#rn-series)
 - [NodeJS](#nodejs)
   - [Javascript](#node-js)
-  - [Promises e async/await](#node-promises)
   - [Express](#express)
   - [Adonis](#adonis)
   - [Outros](#node-others)
@@ -49,13 +50,38 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
   - [Outros](#reactjs-others)
 - [Outros](#others)
 
-## <div id="pure-javascript" />Javascript
+## <div id="javascript" />Javascript
 
+- [![Instagram](assets/instagram.png) Controlando criação/edição com Axios](https://www.instagram.com/p/BlVYbl3na70/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Get/set por caminho em objetos](https://www.instagram.com/p/BkklXTUHw_J/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Operação em estilos CSS-in-JS](https://www.instagram.com/p/Bkcys8xHmBo/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Condicionais short-circuit](https://www.instagram.com/p/BhtuOLNHgIM/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Gerando e validando hash de passwords](https://www.instagram.com/p/BhbsfNVn3DW/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Utilizando transform de decorators](https://www.instagram.com/p/BaH6OSjDqls/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Formatação de data com Javascript puro](https://www.instagram.com/p/BVhSakqAwzv/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Formatação monetária com Javascript puro](https://www.instagram.com/p/BVXmy6aAi3o/?taken-by=rocketseat_oficial)
 - [![Blog](assets/rocketseat.png) Debounce vs. Throttle no Javascript](https://blog.rocketseat.com.br/debounce-vs-throttle-no-javascript/)
+- [![Blog](assets/rocketseat.png) Ambiente Javascript: Dicas, VSCode e terminal](https://blog.rocketseat.com.br/ambiente-desenvolvimento-javascript/)
+
+### <div id="js-ecmascript"> ES6/ES7/ES8
+
+- [![Instagram](assets/instagram.png) ES6: Funções de iterações](https://www.instagram.com/p/BkN3UhOnnAX/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Shorthands: Arrow Function](https://www.instagram.com/p/BkDZMS1HjsM/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Utilizando funções assíncronas do ES6](https://www.instagram.com/p/BZwjAFOgjxV/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Utilizando atribuição no ES6](https://www.instagram.com/p/BZjeu17AXJv/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Utilizando async/await do ES2017](https://www.instagram.com/p/BYtWcqognqg/?taken-by=rocketseat_oficial)
+- [![Youtube](assets/youtube.png) Configurando NodeJS com ES6](https://www.youtube.com/watch?v=joTc5o9lFCg)
+- [![Blog](assets/rocketseat.png) CodeQuinta #7 - Features do ES6, ES7 e ES8 produtivas](https://www.youtube.com/watch?v=VwAYyXZk5as)
+
+### <div id="js-promises" />Promise e async/await
+
+- [![Instagram](assets/instagram.png) Trocando Promise por async/await](https://www.instagram.com/p/Bi10jwAH_fl/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Alterando callbacks para Promises](https://www.instagram.com/p/Bgq4s1fASiF/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Lendo arquivos em partes com async/await](https://www.instagram.com/p/Bh_xU07HENo/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Utilizando .finally() em Promises](https://www.instagram.com/p/BhWsCBdAgGw/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Chamadas consecultivas em Promises](https://www.instagram.com/p/BhJq7dPAooF/?taken-by=rocketseat_oficial)
 - [![Blog](assets/rocketseat.png) Javascript assíncrono: async/await](https://blog.rocketseat.com.br/javascript-assincrono-async-await/)
 - [![Blog](assets/rocketseat.png) Javascript assíncrono: Promises](https://blog.rocketseat.com.br/javascript-assincrono-promises/)
-- [![Blog](assets/rocketseat.png) Ambiente Javascript: Dicas, VSCode e terminal](https://blog.rocketseat.com.br/ambiente-desenvolvimento-javascript/)
-- [![Blog](assets/rocketseat.png) CodeQuinta #7 - Features do ES6, ES7 e ES8 produtivas](https://www.youtube.com/watch?v=VwAYyXZk5as)
 
 ## React Native
 
@@ -189,31 +215,6 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Instalando o Mapbox e listando imóveis no React Native (parte 5)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
 
 ## <div id="nodejs" />NodeJS
-
-### <div id="node-js" />Javascript
-
-- [![Instagram](assets/instagram.png) Controlando criação/edição com Axios](https://www.instagram.com/p/BlVYbl3na70/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Get/set por caminho em objetos](https://www.instagram.com/p/BkklXTUHw_J/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Operação em estilos CSS-in-JS](https://www.instagram.com/p/Bkcys8xHmBo/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) ES6: Funções de iterações](https://www.instagram.com/p/BkN3UhOnnAX/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Shorthands: Arrow Function](https://www.instagram.com/p/BkDZMS1HjsM/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Condicionais short-circuit](https://www.instagram.com/p/BhtuOLNHgIM/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Alterando callbacks para Promises](https://www.instagram.com/p/Bgq4s1fASiF/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Utilizando funções assíncronas do ES6](https://www.instagram.com/p/BZwjAFOgjxV/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Gerando e validando hash de passwords](https://www.instagram.com/p/BhbsfNVn3DW/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Utilizando transform de decorators](https://www.instagram.com/p/BaH6OSjDqls/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Utilizando atribuição no ES6](https://www.instagram.com/p/BZjeu17AXJv/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Utilizando async/await do ES2017](https://www.instagram.com/p/BYtWcqognqg/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Formatação de data com Javascript puro](https://www.instagram.com/p/BVhSakqAwzv/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Formatação monetária com Javascript puro](https://www.instagram.com/p/BVXmy6aAi3o/?taken-by=rocketseat_oficial)
-- [![Youtube](assets/youtube.png) Configurando NodeJS com ES6](https://www.youtube.com/watch?v=joTc5o9lFCg)
-
-### <div id="node-promises" />Promise e async/await
-
-- [![Instagram](assets/instagram.png) Trocando Promise por async/await](https://www.instagram.com/p/Bi10jwAH_fl/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Lendo arquivos em partes com async/await](https://www.instagram.com/p/Bh_xU07HENo/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Utilizando .finally() em Promises](https://www.instagram.com/p/BhWsCBdAgGw/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/instagram.png) Chamadas consecultivas em Promises](https://www.instagram.com/p/BhJq7dPAooF/?taken-by=rocketseat_oficial)
 
 ### <div id="express" />Express
 

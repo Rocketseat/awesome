@@ -37,7 +37,6 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
   - [Outros](#rn-others)
   - [Séries](#rn-series)
 - [NodeJS](#nodejs)
-  - [Javascript](#node-js)
   - [Express](#express)
   - [Adonis](#adonis)
   - [Outros](#node-others)

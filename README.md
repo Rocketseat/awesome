@@ -61,6 +61,8 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Instagram](assets/instagram.png) Formatação monetária com Javascript puro](https://www.instagram.com/p/BVXmy6aAi3o/?taken-by=rocketseat_oficial)
 - [![Blog](assets/rocketseat.png) Debounce vs. Throttle no Javascript](https://blog.rocketseat.com.br/debounce-vs-throttle-no-javascript/)
 - [![Blog](assets/rocketseat.png) Ambiente Javascript: Dicas, VSCode e terminal](https://blog.rocketseat.com.br/ambiente-desenvolvimento-javascript/)
+- [![Instagram](assets/instagram.png) Manipulando dads com o MomentJS](https://www.instagram.com/p/BmBPnZ8HWwo/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Criando condicionais por objeto](https://www.instagram.com/p/BmQsaigH9Du/?taken-by=rocketseat_oficial)
 
 ### <div id="js-ecmascript"> ES6/ES7/ES8
 
@@ -207,11 +209,15 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Instagram](assets/instagram.png) Manipulando o comportamento da tela com o teclado](https://www.instagram.com/p/BbmQ4LJgrDx/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Acessando dados de geolocalização do usuário](https://www.instagram.com/p/BaUceBhAprY/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Utilizando PropTypes do componente filho](https://www.instagram.com/p/BZeedPVAsRn/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Interceptando requisiões no Axios](https://www.instagram.com/p/Bmdkjg-H8de/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/youtube.png) Caminhos relativos no ReactJS com create-react-app | Diego Fernandes](https://www.youtube.com/watch?v=lAV1-19hHqw&t=463s)
 
 ### <div id="rn-series" />Séries
 
 - [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Iniciando com React Native: Navegação e Autenticação com JWT (parte 4)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
 - [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Instalando o Mapbox e listando imóveis no React Native (parte 5)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Upload de Imagens e uso da Câmera no React Native (parte 6)](https://blog.rocketseat.com.br/react-native-upload-imagem/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Estilizando as Annotations do Mapbox no React Native (parte 7)](https://blog.rocketseat.com.br/mapbox-annotations/)
 
 ## <div id="nodejs" />NodeJS
 
@@ -271,6 +277,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Youtube](assets/youtube.png) Caminhos relativos no ReactJS com create-react-app](https://www.youtube.com/watch?v=lAV1-19hHqw)
 - [![Youtube](assets/youtube.png) CodeQuinta #10 | API em AdonisJS com ReactJS do zero!](https://www.youtube.com/watch?v=_XU8hTHNcj8)
 - [![Youtube](assets/youtube.png) Theme Switcher com ReactJS e nova Context API](https://www.youtube.com/watch?v=oDgxUodLwGU)
+- [![Instagram](assets/instagram.png) Utilizando debounce em inputs](https://www.instagram.com/p/BmLmCVCn8Vn/?taken-by=rocketseat_oficial)
 
 ## <div id="others"></div>Outros
 

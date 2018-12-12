@@ -43,10 +43,12 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
   - [Séries](#node-series)
 - [ReactJS](#react-js)
   - [Start](#reactjs-start)
+  - [Componentes](#reactjs-components)
   - [Redux](#reactjs-redux)
   - [Estilização](#reactjs-style)
   - [Navegação](#reactjs-nagivation)
   - [Outros](#reactjs-others)
+  - [Séries](#reactjs-series)
 - [Outros](#others)
 
 ## <div id="javascript" />Javascript
@@ -61,8 +63,15 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Instagram](assets/instagram.png) Formatação monetária com Javascript puro](https://www.instagram.com/p/BVXmy6aAi3o/?taken-by=rocketseat_oficial)
 - [![Blog](assets/rocketseat.png) Debounce vs. Throttle no Javascript](https://blog.rocketseat.com.br/debounce-vs-throttle-no-javascript/)
 - [![Blog](assets/rocketseat.png) Ambiente Javascript: Dicas, VSCode e terminal](https://blog.rocketseat.com.br/ambiente-desenvolvimento-javascript/)
-- [![Instagram](assets/instagram.png) Manipulando dads com o MomentJS](https://www.instagram.com/p/BmBPnZ8HWwo/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Manipulando datas com o MomentJS](https://www.instagram.com/p/BmBPnZ8HWwo/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Criando condicionais por objeto](https://www.instagram.com/p/BmQsaigH9Du/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Aplicando validações com Validator](https://www.instagram.com/p/Bm3bdSZng6e/)
+- [![Instagram](assets/instagram.png) Recuperando e criando Query String](https://www.instagram.com/p/Bn3_p1ynL-B/)
+- [![Instagram](assets/instagram.png) Utilizando Tagged Template Literals](https://www.instagram.com/p/BoPhJevHjTb/)
+- [![Instagram](assets/instagram.png) Preview de input de imagem](https://www.instagram.com/p/Boea5hBHjUj/)
+- [![Instagram](assets/instagram.png) Aplicando timeouts para chamadas à API](https://www.instagram.com/p/BozEVCQA2Te/)
+- [![Instagram](assets/instagram.png) Criando API fake para seu front-end](https://www.instagram.com/p/BpR6mS4AQ1i/)
+- [![Youtube](assets/youtube.png) Style guides Javascript com ESLint, Prettier e EditorConfig | Diego Fernandes](https://www.youtube.com/watch?v=TI4v4Y8yRjw)
 
 ### <div id="js-ecmascript"> ES6/ES7/ES8
 
@@ -83,6 +92,8 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Instagram](assets/instagram.png) Chamadas consecultivas em Promises](https://www.instagram.com/p/BhJq7dPAooF/?taken-by=rocketseat_oficial)
 - [![Blog](assets/rocketseat.png) Javascript assíncrono: async/await](https://blog.rocketseat.com.br/javascript-assincrono-async-await/)
 - [![Blog](assets/rocketseat.png) Javascript assíncrono: Promises](https://blog.rocketseat.com.br/javascript-assincrono-promises/)
+- [![Instagram](assets/instagram.png) Iterações assíncronas com .map](https://www.instagram.com/p/Bpj8V0nB_57/)
+- [![Instagram](assets/instagram.png) Evitando o bloqueio do fluxo assíncrono](https://www.instagram.com/p/BppFs3gh3fc/)
 
 ## React Native
 
@@ -149,6 +160,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Instagram](assets/instagram.png) Estilos específicos para plataforma no React Native](https://www.instagram.com/p/BWLEL3kAVzZ/?taken-by=rocketseat_oficial)
 - [![Youtube](assets/youtube.png) CodeQuinta #6 - Construindo layouts no React Native](https://www.youtube.com/watch?v=Q7gT462aBU0)
 - [![Youtube](assets/youtube.png) Entendendo o FlexBox no React Native | Diego Fernandes](https://www.youtube.com/watch?v=dUkkOdhyO1w)
+- [![Youtube](assets/youtube.png) Utilizando Styled Components (CSS-in-JS) no ReactJS e React Native | Diego Fernandes](https://www.youtube.com/watch?v=R3S8DEzEn6s)
 
 ### <div id="rn-effects" />Efeitos
 
@@ -159,17 +171,20 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 ### <div id="rn-forms" />Formulários
 
 - [![Blog](assets/rocketseat.png) Gerenciando formulários no React Native](https://blog.rocketseat.com.br/gerenciando-formularios-no-react-native/)
+- [![Blog](assets/rocketseat.png) Acessibilidade em campo de texto](https://www.instagram.com/p/BpFV0NYAgh-/)
 
 ### <div id="rn-maps" />Mapas
 
 - [![Blog](assets/rocketseat.png) Utilizando mapas no React Native com Mapbox](https://blog.rocketseat.com.br/react-native-map/)
 - [![Youtube](assets/youtube.png) CodeQuinta #4 - Mapas no React Native](https://www.youtube.com/watch?v=2takPFib5uE)
 - [![Instagram](assets/instagram.png) Renderizando mapas com a biblioteca do AirBnB](https://www.instagram.com/p/BYbbDTNgTjr/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Monitorando localização do usuário](https://www.instagram.com/p/BqZ-7Wmh9S0/)
 
 ### <div id="rn-offline-first" />Offline First
 
 - [![Blog](assets/rocketseat.png) Offline first: como funciona e como aplicar no React Native?](https://blog.rocketseat.com.br/offline-first-react-native/)
-- [![Instagram](assets/instagram.png) Descobrindo se o usuário está conectado]()
+- [![Instagram](assets/instagram.png) Descobrindo se o usuário está conectado](https://www.instagram.com/p/BdAWu2zA0W2/)
+- [![Youtube](assets/youtube.png) Fila de ações offline first no React Native com Redux Saga | Diego Fernandes](https://www.youtube.com/watch?v=hs3N1pYSgig)
 
 ### <div id="rn-redux" />Redux
 
@@ -183,6 +198,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Instagram](assets/instagram.png) Adicionando um timeout à uma request](https://www.instagram.com/p/BamnfBygRjw/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Testando reducers de Redux com Jest](https://www.instagram.com/p/BZ1xdX7gPHX/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Fluxo do Redux](https://www.instagram.com/p/BZTYYAjAp7N/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) Trabalhando com estruturas imutáveis](https://www.instagram.com/p/Bq99of-h1I8/)
 
 ### <div id="rn-graphql" />GraphQL
 
@@ -210,7 +226,12 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Instagram](assets/instagram.png) Acessando dados de geolocalização do usuário](https://www.instagram.com/p/BaUceBhAprY/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Utilizando PropTypes do componente filho](https://www.instagram.com/p/BZeedPVAsRn/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Interceptando requisiões no Axios](https://www.instagram.com/p/Bmdkjg-H8de/?taken-by=rocketseat_oficial)
-- [![Instagram](assets/youtube.png) Caminhos relativos no ReactJS com create-react-app | Diego Fernandes](https://www.youtube.com/watch?v=lAV1-19hHqw&t=463s)
+- [![Youtube](assets/youtube.png) Caminhos relativos no ReactJS com create-react-app | Diego Fernandes](https://www.youtube.com/watch?v=lAV1-19hHqw)
+- [![Instagram](assets/instagram.png) Lidando com duplo clique](https://www.instagram.com/p/Bnlyr2QHvL6/)
+- [![Instagram](assets/instagram.png) Componentes condicionais por plataforma](https://www.instagram.com/p/Bot3yMPgFZJ/)
+- [![Instagram](assets/instagram.png) Captando informações do smartphone](https://www.instagram.com/p/BpXEHcogoj_/)
+- [![Youtube](assets/youtube.png) Configurando ícone, splash screen e nome do app iOS no React Native | Claudio Orlandi](https://www.youtube.com/watch?v=iOitq0mDaLc)
+- [![Youtube](assets/youtube.png) Configurando ícone, splash screen e nome do app Android no React Native | Claudio Orlandi](https://www.youtube.com/watch?v=3Gf9yb53bJM)
 
 ### <div id="rn-series" />Séries
 
@@ -226,20 +247,25 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Blog](assets/rocketseat.png) Configurando o ORM Sequelize no NodeJS com ExpressJS](https://blog.rocketseat.com.br/nodejs-express-sequelize/)
 - [![Blog](assets/rocketseat.png) Autenticação JWT no React Native com API REST em NodeJS](https://blog.rocketseat.com.br/autenticacao-react-native-nodejs/)
 - [![Blog](assets/rocketseat.png) Iniciando com middlewares no Express.js](https://blog.rocketseat.com.br/middlewares-no-express-js/)
+- [![Youtube](assets/youtube.png) Validando entrada de dados com Sequelize no NodeJS | Higo Ribeiro](https://www.youtube.com/watch?v=3RzW3IqtGR0)
 
 ### <div id="adonis" />Adonis
 
 - [![Blog](assets/rocketseat.png) Iniciando com AdonisJS, um framework completo para NodeJS](https://www.youtube.com/watch?v=aysgHRmzG3w)
 - [![Youtube](assets/youtube.png) CodeQuinta #10 | API em AdonisJS com ReactJS do zero!](https://www.youtube.com/watch?v=_XU8hTHNcj8)
+- [![Youtube](assets/youtube.png) CRUD e relacionamentos no AdonisJS | Diego Fernandes](https://www.youtube.com/watch?v=ESIQ6gWV80Y)
 
 ### <div id="node-others" />Outros
 
+- [![Blog](assets/rocketseat.png) Por que escrever testes automatizados se eu mesmo posso testar?](https://blog.rocketseat.com.br/por-que-escrever-testes-automatizados/)
+- [![Blog](assets/rocketseat.png) Iniciando com GraphQL no NodeJS e ExpressJS](https://blog.rocketseat.com.br/iniciando-graphql-nodejs-expressjs/)
 - [![Blog](assets/rocketseat.png) NodeJS: Vale a pena? Vantagens, vagas e salário](https://blog.rocketseat.com.br/nodejs-vale-a-pena-vantagens/)
 - [![Blog](assets/rocketseat.png) Server-side rendering (SSR) com ReactJS e Next.js](https://blog.rocketseat.com.br/ssr-nextjs-reactjs/)
 - [![Instagram](assets/instagram.png) Lendo arquivos em partes com async/await](https://www.instagram.com/p/Bh_xU07HENo/?taken-by=rocketseat_oficial)
 - [![Youtube](assets/youtube.png) Chat em tempo real com NodeJS + Socket.io](https://www.youtube.com/watch?v=-jXfKDYJJvo)
 - [![Youtube](assets/youtube.png) Iniciando com server-side rendering (SSR) no ReactJS com Next.js](https://www.youtube.com/watch?v=aQFPetOyzUE)
 - [![Youtube](assets/youtube.png) Ambiente de desenvolvimento NodeJS com Docker e Docker Compose](https://www.youtube.com/watch?v=AVNADGzXrrQ)
+- [![Instagram](assets/instagram.png) Leitura de arquivo CSV no NodeJS](https://www.instagram.com/p/BnTvucTnApb/)
 
 ### <div id="node-series" />Séries
 
@@ -259,28 +285,49 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Blog](assets/rocketseat.png) React do zero: ciclo de vida, stateless components e arquitetura flux](https://blog.rocketseat.com.br/react-do-zero-ciclo-de-vida-stateless-components-e-arquitetura-flux/)
 - [![Youtube](assets/youtube.png) Iniciando no ReactJS](https://www.youtube.com/watch?v=7A4UQGrFU9Q)
 
+### <div id="reactjs-components" /> Componentes
+
+- [![Instagram](assets/instagram.png) Retornando múltiplos elementos de um componente](https://www.instagram.com/p/BqzobQ5hXTd/)
+
 ### <div id="reactjs-redux" />Redux
 
 - [![Youtube](assets/youtube.png) Selectors no Redux utilizando reselect](https://www.youtube.com/watch?v=3GpRg-PdbEU)
+- [![Instagram](assets/instagram.png) Manipulando objetos mutáveis](https://www.instagram.com/p/BnY5gW6HgyX/)
+- [![Youtube](assets/youtube.png) Organizando o Redux com Duck Pattern e Redux Sauce | Diego Fernandes](https://www.youtube.com/watch?v=q-If9n-tUyA)
 
 ### <div id="reactjs-styles" />Estilização
 
 - [![Blog](assets/rocketseat.png) Integração do Material UI com ReactJS](https://blog.rocketseat.com.br/react-material-ui/)
+- [![Instagram](assets/instagram.png) Manipulando classes condicionais](https://www.instagram.com/p/Bmi1ZSHnMyv/)
 
-### <div id="reactjs-navigation"></div>Navegação
+### <div id="reactjs-navigation" />Navegação
 
 - [![Youtube](assets/youtube.png) Controlando autenticação em rotas no ReactJS](https://www.youtube.com/watch?v=sYe4r8WXGQg)
+- [![Youtube](assets/youtube.png) Conectando o React Router DOM ao Redux no ReactJS | Diego Fernandes](https://www.youtube.com/watch?v=khaFn1pnDtw)
 
-### <div id="reactjs-others"></div>Outros
+### <div id="reactjs-others" />Outros
 
+- [![Instagram](assets/instagram.png) Aplicando máscara em inputs](https://www.instagram.com/p/BmwLMFwnNlF/)
+- [![Instagram](assets/instagram.png) Criando componente de cartão de crédito](https://www.instagram.com/p/BnBuTotnHyl/)
 - [![Youtube](assets/youtube.png) Persistindo store do Redux no ReactJS com Redux Persist](https://www.youtube.com/watch?v=LGkNjt7k4UQ)
 - [![Youtube](assets/youtube.png) Caminhos relativos no ReactJS com create-react-app](https://www.youtube.com/watch?v=lAV1-19hHqw)
 - [![Youtube](assets/youtube.png) CodeQuinta #10 | API em AdonisJS com ReactJS do zero!](https://www.youtube.com/watch?v=_XU8hTHNcj8)
 - [![Youtube](assets/youtube.png) Theme Switcher com ReactJS e nova Context API](https://www.youtube.com/watch?v=oDgxUodLwGU)
 - [![Instagram](assets/instagram.png) Utilizando debounce em inputs](https://www.instagram.com/p/BmLmCVCn8Vn/?taken-by=rocketseat_oficial)
+- [![Instagram](assets/instagram.png) A melhor maneira de manipular dados no React](https://www.instagram.com/p/BrFyrH4hLsS/)
+- [![Youtube](assets/youtube.png) Caminhos relativos no ReactJS com create-react-app | Diego Fernandes](https://www.youtube.com/watch?v=lAV1-19hHqw)
+
+### <div id="reactjs-series" />Séries
+
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Iniciando com ReactJS: Navegação e Autenticação com JWT (parte 8)](https://blog.rocketseat.com.br/reactjs-autenticacao/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Instalando o Mapbox e listando os imóveis no ReactJS (parte 9)](https://blog.rocketseat.com.br/reactjs-mapbox-airbnb/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Utilizando o ModalRoute e fazendo upload de imagens (parte 10)](https://blog.rocketseat.com.br/modalroute-upload-imagens-reactjs/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Exibindo informações do imóvel com ModalRoute (parte 11)](https://blog.rocketseat.com.br/reactjs-modal-route-property-information/)
 
 ## <div id="others"></div>Outros
 
+- [![Blog](assets/rocketseat.png) SaaS: Single tenant ou Multi-tenant, qual escolher?](https://blog.rocketseat.com.br/saas-single-tenant-multi-tenant/)
+- [![Blog](assets/rocketseat.png) 5 ferramentas em alta para desenvolvedores React](https://blog.rocketseat.com.br/5-ferramentas-em-alta-react/)
 - [![Blog](assets/rocketseat.png) O que estudar em 2018 como front-end?](https://blog.rocketseat.com.br/o-que-estudar-em-2018-como-front-end/)
 - [![Blog](assets/rocketseat.png) Padronizando código em seu time](https://blog.rocketseat.com.br/padronizando-codigo-em-seu-time/)
 - [![Blog](assets/rocketseat.png) Integração contínua (CI) do zero](https://blog.rocketseat.com.br/integracao-continua-ci-do-zero/)
@@ -293,12 +340,18 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Youtube](assets/youtube.png) Servidor PHP no Vagrant](https://www.youtube.com/watch?v=Hs3EESKGMEc)
 - [![Youtube](assets/youtube.png) Devo ser front-end, back-end ou full stack?](https://www.youtube.com/watch?v=X9svzO3KNEo)
 - [![Youtube](assets/youtube.png) CodeQuinta #5 - Fluxo Git & Github](https://www.youtube.com/watch?v=2T2l2rGRzXs)
+- [![Instagram](assets/instagram.png) Query com filtro e paginação](https://www.instagram.com/p/BnG37bPnb8W/)
+- [![Instagram](assets/instagram.png) Controlando states com React Hooks](https://www.instagram.com/p/BqPnUmkBTne/)
 
 ### <div id="others-series">Séries
 
 - [![Youtube](assets/youtube.png) Fala Dev #1 - Como comecei a programar? Por que criamos a Rocketseat? Nossa stack](https://www.youtube.com/watch?v=gBmnB7BwSRA)
 - [![Youtube](assets/youtube.png) Fala Dev #2 - AirBnB largou o React Native? Projeto sonar, office em RN?](https://www.youtube.com/watch?v=NOqHJ2TsZ70)
 - [![Youtube](assets/youtube.png) Fala Dev #3 - Reagindo à nova versão do React Native](https://www.youtube.com/watch?v=4SkyJEv0j8k)
+- [![Youtube](assets/youtube.png) Fala Dev #4 - Academy e novos instrutores da Rocketseat | Diego Fernandes](https://www.youtube.com/watch?v=toXg8tomGG0)
+- [![Youtube](assets/youtube.png) Fala Dev #5 - 5 dicas para uma carreira sólida como programador | Diego Fernandes](https://www.youtube.com/watch?v=WKAi7ZDkiYA)
+- [![Youtube](assets/youtube.png) Fala Dev #6 - Júnior, pleno ou sênior, qual a diferença? | Diego Fernandes](https://www.youtube.com/watch?v=5-0R1jX-9Zc)
+- [![Youtube](assets/youtube.png) Diário de Bordo #1 - Três dias offline](https://www.youtube.com/watch?v=BCA5-zZJU_E)
 
 ### <div id="others-series">Podcasts
 

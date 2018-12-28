@@ -39,6 +39,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [NodeJS](#nodejs)
   - [Express](#express)
   - [Adonis](#adonis)
+  - [Deploy](#node-deploy)
   - [Outros](#node-others)
   - [Séries](#node-series)
 - [ReactJS](#react-js)
@@ -144,6 +145,8 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Blog](assets/rocketseat.png) Navegação entre telas no React Native com React Navigation V2](https://blog.rocketseat.com.br/react-navigation-react-native/)
 - [![Blog](assets/rocketseat.png) Autenticação JWT no React Native com API REST em NodeJS](https://blog.rocketseat.com.br/autenticacao-react-native-nodejs/)
 - [![Blog](assets/rocketseat.png) Fluxo de autenticação com React Native](https://blog.rocketseat.com.br/fluxo-de-autenticacao-com-react-native/)
+- [![Instagram](assets/instagram.png) Deep Linking com React Navigation](https://www.instagram.com/p/Brkleg-BtZX/)
+- [![Instagram](assets/instagram.png) Rotas autenticadas com React Navigation](https://www.instagram.com/p/Brp1z4jhMRo/)
 
 ### <div id="rn-camera" />Câmera
 
@@ -167,6 +170,8 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Blog](assets/rocketseat.png) Implementando Shimmer Effect no React Native](https://blog.rocketseat.com.br/react-native-shimmer/)
 - [![Blog](assets/rocketseat.png) Scroll infinito no React Native](https://blog.rocketseat.com.br/scroll-infinito-no-react-native/)
 - [![Blog](assets/rocketseat.png) Criando efeito de Lazy Load em imagens no React Native](https://blog.rocketseat.com.br/criando-efeito-de-lazy-load-em-imagens-no-react-native/)
+- [![Youtube](assets/youtube.png) Quick actions (3D/Force touch) no React Native | Diego Fernandes](https://www.youtube.com/watch?v=jm6aECNugeM)
+- [![Instagram](assets/instagram.png) Scroll infinito em FlatList](https://www.instagram.com/p/BrxdMBRhCqZ/)
 
 ### <div id="rn-forms" />Formulários
 
@@ -185,6 +190,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Blog](assets/rocketseat.png) Offline first: como funciona e como aplicar no React Native?](https://blog.rocketseat.com.br/offline-first-react-native/)
 - [![Instagram](assets/instagram.png) Descobrindo se o usuário está conectado](https://www.instagram.com/p/BdAWu2zA0W2/)
 - [![Youtube](assets/youtube.png) Fila de ações offline first no React Native com Redux Saga | Diego Fernandes](https://www.youtube.com/watch?v=hs3N1pYSgig)
+- [![Blog](assets/rocketseat.png) Planejando uma aplicação Offline First no React Native](https://blog.rocketseat.com.br/offline-first-em-detalhes/)
 
 ### <div id="rn-redux" />Redux
 
@@ -199,6 +205,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Instagram](assets/instagram.png) Testando reducers de Redux com Jest](https://www.instagram.com/p/BZ1xdX7gPHX/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Fluxo do Redux](https://www.instagram.com/p/BZTYYAjAp7N/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Trabalhando com estruturas imutáveis](https://www.instagram.com/p/Bq99of-h1I8/)
+- [![Instagram](assets/instagram.png) Escalando estrutura Redux com Duck Pattern](https://www.instagram.com/p/Br5LengBCxB/)
 
 ### <div id="rn-graphql" />GraphQL
 
@@ -255,6 +262,11 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Youtube](assets/youtube.png) CodeQuinta #10 | API em AdonisJS com ReactJS do zero!](https://www.youtube.com/watch?v=_XU8hTHNcj8)
 - [![Youtube](assets/youtube.png) CRUD e relacionamentos no AdonisJS | Diego Fernandes](https://www.youtube.com/watch?v=ESIQ6gWV80Y)
 
+### <div id="node-deploy" />Deploy
+
+- [![Youtube](assets/youtube.png) Deploy de aplicações NodeJS à AWS com Docker | Diego Fernandes](https://www.youtube.com/watch?v=kqBCHYf_adA)
+- [![Blog](assets/rocketseat.png) PM2: Como utilizar no NodeJS e funcionalidades secretas](https://blog.rocketseat.com.br/pm2-com-funcionalidades-secretas/)
+
 ### <div id="node-others" />Outros
 
 - [![Blog](assets/rocketseat.png) Por que escrever testes automatizados se eu mesmo posso testar?](https://blog.rocketseat.com.br/por-que-escrever-testes-automatizados/)
@@ -266,6 +278,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Youtube](assets/youtube.png) Iniciando com server-side rendering (SSR) no ReactJS com Next.js](https://www.youtube.com/watch?v=aQFPetOyzUE)
 - [![Youtube](assets/youtube.png) Ambiente de desenvolvimento NodeJS com Docker e Docker Compose](https://www.youtube.com/watch?v=AVNADGzXrrQ)
 - [![Instagram](assets/instagram.png) Leitura de arquivo CSV no NodeJS](https://www.instagram.com/p/BnTvucTnApb/)
+- [![Blog](assets/rocketseat.png) AdonisJS vs ExpressJS: Quando utilizar cada um?](https://blog.rocketseat.com.br/adonis-vs-express/)
 
 ### <div id="node-series" />Séries
 
@@ -316,6 +329,8 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Instagram](assets/instagram.png) Utilizando debounce em inputs](https://www.instagram.com/p/BmLmCVCn8Vn/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) A melhor maneira de manipular dados no React](https://www.instagram.com/p/BrFyrH4hLsS/)
 - [![Youtube](assets/youtube.png) Caminhos relativos no ReactJS com create-react-app | Diego Fernandes](https://www.youtube.com/watch?v=lAV1-19hHqw)
+- [![Instagram](assets/instagram.png) Utilizando Hooks no React](https://www.instagram.com/p/BrVHv0QhEA3/)
+- [![Blog](assets/rocketseat.png) React Hooks: Como utilizar, motivações e exemplos práticos](https://blog.rocketseat.com.br/react-hooks/)
 
 ### <div id="reactjs-series" />Séries
 
@@ -326,6 +341,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 ## <div id="others"></div>Outros
 
+- [![Blog](assets/rocketseat.png) Firebase: serviços, vantagens, quando utilizar e integrações](https://blog.rocketseat.com.br/firebase/)
 - [![Blog](assets/rocketseat.png) SaaS: Single tenant ou Multi-tenant, qual escolher?](https://blog.rocketseat.com.br/saas-single-tenant-multi-tenant/)
 - [![Blog](assets/rocketseat.png) 5 ferramentas em alta para desenvolvedores React](https://blog.rocketseat.com.br/5-ferramentas-em-alta-react/)
 - [![Blog](assets/rocketseat.png) O que estudar em 2018 como front-end?](https://blog.rocketseat.com.br/o-que-estudar-em-2018-como-front-end/)

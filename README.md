@@ -185,6 +185,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Instagram](assets/instagram.png) Renderizando mapas com a biblioteca do AirBnB](https://www.instagram.com/p/BYbbDTNgTjr/?taken-by=rocketseat_oficial)
 - [![Instagram](assets/instagram.png) Monitorando localização do usuário](https://www.instagram.com/p/BqZ-7Wmh9S0/)
 
+
 ### <div id="rn-offline-first" />Offline First
 
 - [![Blog](assets/rocketseat.png) Offline first: como funciona e como aplicar no React Native?](https://blog.rocketseat.com.br/offline-first-react-native/)
@@ -239,6 +240,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Instagram](assets/instagram.png) Captando informações do smartphone](https://www.instagram.com/p/BpXEHcogoj_/)
 - [![Youtube](assets/youtube.png) Configurando ícone, splash screen e nome do app iOS no React Native | Claudio Orlandi](https://www.youtube.com/watch?v=iOitq0mDaLc)
 - [![Youtube](assets/youtube.png) Configurando ícone, splash screen e nome do app Android no React Native | Claudio Orlandi](https://www.youtube.com/watch?v=3Gf9yb53bJM)
+- [![Youtube](assets/youtube.png) Recriando a interface do Uber com React Native](https://www.youtube.com/watch?v=bg-U0xZwcRk)
 
 ### <div id="rn-series" />Séries
 

@@ -142,6 +142,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 ### <div id="rn-navigation" />Navegação
 
+- [![Blog](assets/rocketseat.png) Tipos de navegação no React Native](https://blog.rocketseat.com.br/navegacao-react-native/)
 - [![Blog](assets/rocketseat.png) Navegação entre telas no React Native com React Navigation V2](https://blog.rocketseat.com.br/react-navigation-react-native/)
 - [![Blog](assets/rocketseat.png) Autenticação JWT no React Native com API REST em NodeJS](https://blog.rocketseat.com.br/autenticacao-react-native-nodejs/)
 - [![Blog](assets/rocketseat.png) Fluxo de autenticação com React Native](https://blog.rocketseat.com.br/fluxo-de-autenticacao-com-react-native/)
@@ -154,6 +155,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 ### <div id="rn-styles" />Estilização
 
+- [![Blog](assets/rocketseat.png) Dicas de UX para aplicações React Native](https://blog.rocketseat.com.br/react-native-dicas-ux/)
 - [![Blog](assets/rocketseat.png) Como organizar estilos no React Native](https://blog.rocketseat.com.br/como-organizar-estilos-no-react-native/)
 - [![Blog](assets/rocketseat.png) Utilizando NativeBase no React Native](https://blog.rocketseat.com.br/native-base-no-react-native/)
 - [![Blog](assets/rocketseat.png) Utilizando fontes de ícones no React Native](https://blog.rocketseat.com.br/utilizando-fontes-de-icones-no-react-native/)
@@ -223,6 +225,9 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 ### <div id="rn-others" />Outros
 
+- [![Blog](assets/rocketseat.png) Reduzindo o tamanho do APK para Android no React Native](https://blog.rocketseat.com.br/reduzindo-o-tamanho-das-builds-para-android-no-react-native/)
+- [![Blog](assets/rocketseat.png) React Native em 2019, nova arquitetura e comparações com Flutter](https://blog.rocketseat.com.br/react-native-em-2019/)
+- [![Blog](assets/rocketseat.png) Atualizando aplicações React Native para a última versão](https://blog.rocketseat.com.br/atualizacao-react-native/)
 - [![Blog](assets/rocketseat.png) Configurando deep linking no React Native](https://blog.rocketseat.com.br/configurando-deep-linking-no-react-native/)
 - [![Blog](assets/rocketseat.png) As melhores features do ES6, ES7 e ES8](https://blog.rocketseat.com.br/as-melhores-features-do-es6-es7-e-es8/)
 - [![Blog](assets/rocketseat.png) Utilizando caminhos absolutos para imports no React Native](https://blog.rocketseat.com.br/utilizando-caminhos-absolutos-para-imports-no-react-native/)

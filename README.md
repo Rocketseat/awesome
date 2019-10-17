@@ -375,6 +375,12 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 - [![Youtube](assets/youtube.png) Fala Dev #5 - 5 dicas para uma carreira sólida como programador | Diego Fernandes](https://www.youtube.com/watch?v=WKAi7ZDkiYA)
 - [![Youtube](assets/youtube.png) Fala Dev #6 - Júnior, pleno ou sênior, qual a diferença? | Diego Fernandes](https://www.youtube.com/watch?v=5-0R1jX-9Zc)
 - [![Youtube](assets/youtube.png) Diário de Bordo #1 - Três dias offline](https://www.youtube.com/watch?v=BCA5-zZJU_E)
+- [![Youtube](assets/youtube.png) Behind the Code #1 - Autenticação no Adonis com TDD](https://www.youtube.com/watch?v=3t78tTWt-JY)
+- [![Youtube](assets/youtube.png) Behind the Code #02 - Recuperação de senha e envio de e-mail no Adonis](https://www.youtube.com/watch?v=R7WTFLM1lto)
+- [![Youtube](assets/youtube.png) Behind the Code #03 - Code review do app mobile](https://www.youtube.com/watch?v=7yyW7z8fbB4)
+- [![Youtube](assets/youtube.png) Behind the Code #04 - CRUD de workshops](https://www.youtube.com/watch?v=sB7GaMTJ7eI)
+- [![Youtube](assets/youtube.png) Behind the Code #05 - Inscrição nos Workshops](https://www.youtube.com/watch?v=whDe_W-CtiU)
+- [![Youtube](assets/youtube.png) Behind the Code #06 - Feature de transcrição no Skylab](https://www.youtube.com/watch?v=rrvgngRairM)
 
 ### <div id="others-series">Podcasts
 

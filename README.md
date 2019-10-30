@@ -249,10 +249,17 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 ### <div id="rn-series" />Séries
 
-- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Iniciando com React Native: Navegação e Autenticação com JWT (parte 4)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
-- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Instalando o Mapbox e listando imóveis no React Native (parte 5)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
-- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Upload de Imagens e uso da Câmera no React Native (parte 6)](https://blog.rocketseat.com.br/react-native-upload-imagem/)
-- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Estilizando as Annotations do Mapbox no React Native (parte 7)](https://blog.rocketseat.com.br/mapbox-annotations/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Iniciando com AdonisJS: Autenticação JWT e API REST (parte 1)](https://blog.rocketseat.com.br/adonis-auth-jwt-api-rest/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Criando CRUD e relações em API REST no AdonisJS (parte 2)](https://blog.rocketseat.com.br/crud-api-rest-adonis/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Upload de imagens e geolocalização no AdonisJS (parte 3)](https://blog.rocketseat.com.br/adonis-upload-geolocalizacao/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Iniciando com React Native: Navegação e Autenticação com JWT (parte 4)](https://blog.rocketseat.com.br/react-native-autenticacao/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Instalando o Mapbox e listando imóveis no React Native (parte 5)](https://blog.rocketseat.com.br/react-native-mapbox-airbnb/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Instalando a Câmera e realizando o cadastro de Imóveis (parte 6)](https://blog.rocketseat.com.br/react-native-upload-imagem/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Listando em um Modal os dados detalhados dos Imóveis (parte 7)](https://blog.rocketseat.com.br/mapbox-annotations/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Iniciando com ReactJS: Navegação e Autenticação com JWT (parte 8)](https://blog.rocketseat.com.br/reactjs-autenticacao/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Instalando o Mapbox e listando os imóveis no ReactJS (parte 9)](https://blog.rocketseat.com.br/reactjs-mapbox-airbnb/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Utilizando o ModalRoute e fazendo upload de imagens (parte 10)](https://blog.rocketseat.com.br/modalroute-upload-imagens-reactjs/)
+- [![Blog](assets/rocketseat.png) [Airbnb Clone - AdonisJS + React + React Native] Exibindo informações do imóvel com ModalRoute (parte 11)](https://blog.rocketseat.com.br/reactjs-modal-route-property-information/)
 
 ## <div id="nodejs" />NodeJS
 

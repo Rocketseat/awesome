@@ -1,18 +1,26 @@
-# Rocketseat
+  <h1 align="center">
+     <a href="https://rocketseat.com.br" target="_blank"> 
+       <img alt="Rocketseat" title="#Rocketseat" src="./assets/logo_rocketseat.png" width="350px" />
+    </a>
+  </h1>
+
 
 Este compêndio tem como propósito unificar de forma organizada todo material gratuito disponibilizado pela Rocketseat. Será encontrado materiais do Blog, Youtube e Instagram.
 
-[![Rocketseat](https://rocketseat.com.br/static/favicon.png)](https://rocketseat.com.br)
 
 # Starter
 
 Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecnologias!
 
-### [Javascript básico](https://rocketseat.com.br/curso-javascript-basico-do-zero)
+### [Javascript básico](https://app.rocketseat.com.br/node/curso-java-script)
 
-### [Javascript ES6+](https://rocketseat.com.br/curso-javascript-es6)
+### [Javascript ES6+](https://app.rocketseat.com.br/node/curso-java-script-es-6)
 
-### [React Native básico](https://rocketseat.com.br/minicurso-react-native-para-iniciantes)
+### [Node.js](https://app.rocketseat.com.br/node/curso-node-js)
+
+### [React.js](https://app.rocketseat.com.br/node/curso-react-js)
+
+### [React Native básico](https://app.rocketseat.com.br/node/curso-react-native)
 
 ## Tabela de Conteúdos
 
@@ -400,4 +408,4 @@ Para conhecer um pouco mais sobre a Rocketseat, acompanhe-nos nas redes sociais:
 - [Instagram](https://www.instagram.com/rocketseat_oficial)
 - [Linkedin](https://www.linkedin.com/company/rocketseat)
 
-[Para participar da comunidade basta clicar aqui.](http://comunidade.rocketseat.com.br)
+[Para participar da comunidade basta clicar aqui.](https://app.rocketseat.com.br/dashboard)

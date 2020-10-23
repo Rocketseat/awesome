@@ -401,7 +401,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 Para conhecer um pouco mais sobre a Rocketseat, acompanhe-nos nas redes sociais:
 
 - [Site](https://rocketseat.com.br)
-- [Blog](https://rocketseat.com.br/blog)
+- [Blog](http://blog.rocketseat.com.br)
 - [Facebook](https://facebook.com/rocketseat)
 - [Youtube](https://www.youtube.com/rocketseat)
 - [Twitter](https://twitter.com/rocketseat)

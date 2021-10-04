@@ -20,7 +20,7 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 ### [<img width="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React.js](https://app.rocketseat.com.br/node/curso-react-js)
 
-### [<img width="20em" src="https://github.com/erikfritas/awesome/assets/react-native.svg" /> React Native básico](https://app.rocketseat.com.br/node/curso-react-native)
+### [<img width="20em" src="https://github.com/rocketseat/awesome/assets/react-native.svg" /> React Native básico](https://app.rocketseat.com.br/node/curso-react-native)
 
 ## Tabela de Conteúdos
 

@@ -14,13 +14,13 @@ Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecn
 
 ### [<img width="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> Javascript básico](https://app.rocketseat.com.br/node/curso-java-script)
 
-### [Javascript ES6+](https://app.rocketseat.com.br/node/curso-java-script-es-6)
+### [<img width="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> Javascript ES6+](https://app.rocketseat.com.br/node/curso-java-script-es-6)
 
-### [Node.js](https://app.rocketseat.com.br/node/curso-node-js)
+### [<img width="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> Node.js](https://app.rocketseat.com.br/node/curso-node-js)
 
-### [React.js](https://app.rocketseat.com.br/node/curso-react-js)
+### [<img width="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> React.js](https://app.rocketseat.com.br/node/curso-react-js)
 
-### [React Native básico](https://app.rocketseat.com.br/node/curso-react-native)
+### [<img width="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> React Native básico](https://app.rocketseat.com.br/node/curso-react-native)
 
 ## Tabela de Conteúdos
 

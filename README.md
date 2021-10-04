@@ -12,7 +12,7 @@ Este compêndio tem como propósito unificar de forma organizada todo material g
 
 Cursos **gratuitos** para quem está dando os **primeiros passos** em novas tecnologias!
 
-### [![JS]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg") Javascript básico](https://app.rocketseat.com.br/node/curso-java-script)
+### [![JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg) Javascript básico](https://app.rocketseat.com.br/node/curso-java-script)
 
 ### [Javascript ES6+](https://app.rocketseat.com.br/node/curso-java-script-es-6)
 
